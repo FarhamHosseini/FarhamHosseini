@@ -2,6 +2,20 @@
 
 ![](https://komarev.com/ghpvc/?username=farhamhosseini&style=flat&color=orange&label=Viewer+count)
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android/badge.svg?style=flat&gav=true)](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android)
+
+[![GitHub stars](https://img.shields.io/github/stars/FarhamHosseini/FontAwesome?label=Stars)](https://github.com/FarhamHosseini/FontAwesome/stargazers)
+
+[![GitHub issues](https://img.shields.io/github/issues/FarhamHosseini/FontAwesome?label=Issues)](https://github.com/FarhamHosseini/FontAwesome/issues)
+
+[![GitHub license](https://img.shields.io/github/license/FarhamHosseini/FontAwesome?label=License)](https://github.com/FarhamHosseini/FontAwesome/blob/main/LICENSE)
+
+[![GitHub version](https://badge.fury.io/gh/FarhamHosseini%2FFontAwesome.svg)](https://badge.fury.io/gh/FarhamHosseini%2FFontAwesome)
+
+[![Build Status](https://travis-ci.com/FarhamHosseini/FontAwesome.png?branch=master)](https://travis-ci.com/FarhamHosseini/FontAwesome)
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FarhamHosseini/FontAwesome/issues)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=farhamhosseini&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [FontAwesome](https://fontawesome.com/icons) library for use in Android project.
