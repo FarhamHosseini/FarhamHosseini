@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 Friends I'm Farham</h1>
 
-![](https://komarev.com/ghpvc/?username=farhamhosseini&style=flat&color=orange&label=Viewer+count)
+![](https://komarev.com/ghpvc/?username=farhamhosseini&style=plastic&color=orange&label=Viewer+count)
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android/badge.svg?style=flat&gav=true)](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android/badge.svg?style=plastic&gav=true)](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android)
 
 [![GitHub stars](https://img.shields.io/github/stars/FarhamHosseini/FontAwesome?label=Stars)](https://github.com/FarhamHosseini/FontAwesome/stargazers)
 
@@ -12,9 +12,33 @@
 
 [![GitHub version](https://badge.fury.io/gh/FarhamHosseini%2FFontAwesome.svg)](https://badge.fury.io/gh/FarhamHosseini%2FFontAwesome)
 
-[![Build Status](https://travis-ci.com/FarhamHosseini/FontAwesome.png?branch=master)](https://travis-ci.com/FarhamHosseini/FontAwesome)
+[![Build Status](https://travis-ci.com/FarhamHosseini/FontAwesome.svg?branch=main)](https://travis-ci.com/FarhamHosseini/FontAwesome)
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FarhamHosseini/FontAwesome/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](https://github.com/FarhamHosseini/FontAwesome/issues)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ParStreamer?label=Twitter%20Follower&style=plastic)
+
+![Twitch Status](https://img.shields.io/twitch/status/ParStreamer?label=Twitch)
+
+![GitHub followers](https://img.shields.io/github/followers/FarhamHosseini?label=Github+Follower)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/farhamhosseini/fontawesome?style=plastic)
+
+![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fapachat.com)
+
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fapachat.com)
+
+![GitHub branch checks state](https://img.shields.io/github/checks-status/farhamhosseini/fontawesome/main)
+
+![GitHub language count](https://img.shields.io/github/languages/count/farhamhosseini/fontawesome)
+
+![GitHub top language](https://img.shields.io/github/languages/top/farhamhosseini/fontawesome)
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/farhamhosseini/fontawesome?style=plastic)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/farhamhosseini/fontawesome)
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/farhamhosseini)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farhamhosseini&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
