@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=farhamhosseini&style=plastic&color=orange&label=Viewer+count)
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android/badge.svg?style=plastic&gav=true)](https://maven-badges.herokuapp.com/maven-central/com.apachat/fontawesome-android)
+[![Maven Central](https://img.shields.io/maven-central/v/com.apachat/fontawesome-android.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.apachat%22%20AND%20a:%22fontawesome-android%22)
 
 [![GitHub stars](https://img.shields.io/github/stars/FarhamHosseini/FontAwesome?label=Stars)](https://github.com/FarhamHosseini/FontAwesome/stargazers)
 
